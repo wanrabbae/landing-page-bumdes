@@ -8,6 +8,10 @@
   --orange: #fe581a;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 /* UTILS */
 img {
   width: 300px;
